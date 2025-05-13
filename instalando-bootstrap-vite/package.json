@@ -1,0 +1,20 @@
+{
+  "name": "instalando-bootstrap-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.6",
+    "sass": "^1.88.0",
+    "vite": "^6.3.5"
+  }
+}
